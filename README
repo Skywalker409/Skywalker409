@@ -1,0 +1,36 @@
+This repository is to display projects, and research of projects. 
+Down below is a list of ideas and will also show the completion of these
+projects. 
+
+
+#### Idea Name #####-###################### Description ################################################
+# 		   #
+#		   #    The radio tracker will use triangulation, 
+# High speed Radio #  by sending out a pulse and measuring the time
+#  Tracker	   #  for a response. However, this time is really short
+#                  #  we cannot hope to be presise with clock speed alone. 
+#                  #  
+#                  #  Therefore, my invention is to use a "capacitor clock" that 
+# Progress:        #  will charge at a known rate. It starts its charge when the 
+# Research Stage   #  pulse is sent out, and stops charging once the pulse returns.
+#                  #
+#                  #  The hope is that the capacitor will hold this charge,  
+#                  #  that can be reverse calculated to time it took for the signal to bounce,
+#                  #  then the computer can read the voltage value and calculate the distance. 
+#                  # 
+#                  #  With 3 "hub" recievers, we can then triangulate the position 
+#                  #  with the 3 differnt distances. 
+#------------------#-#################################################################################### 
+#                  # 
+#                  # 
+#                  # 
+#                  # 
+#                  # 
+#                  # 
+#                  # 
+#                  # 
+#                  # 
+#                  # 
+#                  # 
+ 
+
