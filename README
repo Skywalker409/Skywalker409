@@ -4,10 +4,10 @@ projects.
 
 
 #### Idea Name #####-###################### Description ################################################
-# 		   #
-#		   #    The radio tracker will use triangulation, 
+#                  #
+#                  #    The radio tracker will use triangulation, 
 # High speed Radio #  by sending out a pulse and measuring the time
-#  Tracker	   #  for a response. However, this time is really short
+#  Tracker         #  for a response. However, this time is really short
 #                  #  we cannot hope to be presise with clock speed alone. 
 #                  #  
 #                  #  Therefore, my invention is to use a "capacitor clock" that 
