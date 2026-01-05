@@ -1,0 +1,49 @@
+.rec-card {
+  display: flex;
+  width: 800px;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 30px;
+  align-items: flex-start;
+}
+
+.rec-photo {
+  width: 120px;
+  height: 120px;
+  flex-shrink: 0;
+}
+
+.rec-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.rec-content {
+  flex: 1;
+}
+
+.rec-title a {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.rec-title a:hover {
+  text-decoration: underline;
+}
+
+.rec-meta {
+  font-size: 0.9rem;
+  opacity: 0.85;
+  margin: 0.5rem 0 1rem;
+}
+
+.rec-description {
+  line-height: 1.5;
+}
