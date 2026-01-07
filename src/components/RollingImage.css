@@ -1,0 +1,28 @@
+.rolling-image {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%) rotate(0deg);
+  
+  right: 0; /* starting position for roll in */
+  z-index: 0; /* behind content */
+  pointer-events: none; /* allow clicks through */
+  transition: transform 0.4s ease-in-out;
+}
+
+.rolling-image.in {
+   
+  transform: translateX(0) translateY(-50%) rotate(0deg);
+  
+  
+  
+  
+}
+
+.rolling-image.out {
+  transform: translateX(120%) translateY(-50%) rotate(100deg); /* slide fully to the right */
+}
+
+.rolling-image img {
+  max-width: 500px; /* adjust size */
+  height: auto;
+}
