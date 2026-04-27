@@ -7,10 +7,10 @@ export default function Papers() {
   const personal = [
 {
       name: "Radio-based tracker",
-      title: "ECEN 474",
-      organization: "Texas A&M University",
+      title: "Personal",
+      organization: "Luke Lopez",
       experience:
-        "Cadience",
+        "PCB, RF, Analog Simulations",
       description:
         "By using capacitors as timer, it calculates the position of a emitter based off the time it takes for a radio signal to travel.  ",
       photo: "RFTracker2.png",

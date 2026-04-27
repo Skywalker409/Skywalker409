@@ -40,6 +40,27 @@ export default function LR() {
         photo={"MFord.png"}
         pdfLink = "./MalcolmLOR.pdf"
         />
+
+        <Rec 
+        name="Robledo, Marcelino"
+        title="IT Manager"
+        organization="Texas A&M University"
+        experience="5+ years experience in IT work"
+        description="Mr. Robledo was my supervisor when I worked for IT at my university. He has first hand work expereince on my reliability and 
+        versitility to IT work. "
+        photo={seal}
+        pdfLink = "./MarcRec.pdf"
+        />
+
+        <Rec 
+        name="Mark Garner "
+        title="IT Specialist"
+        organization="Texas A&M University"
+        experience="+10 Years IT work"
+        description="Mr. Garner is a overseeing IT worker at Texas A&M, he helps manage multiple IT departments and I have been able to work with him on a number of projects and tasks. "
+        photo={seal}
+        pdfLink = "./MGRec.pdf"
+        />
       
 
 
