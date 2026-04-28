@@ -55,7 +55,7 @@ export default function Home() {
           signals and systems, and software engineering. My primary focus is on
           understanding computers from the electrical and physical level upward,
           and how those design decisions impact performance, reliability, and
-          software behavior.
+          software behavior. Test
         </p>
 
         <h2>Skills</h2>
